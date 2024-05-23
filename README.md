@@ -5,6 +5,8 @@
 - **JavaScript**
 - **CSS**
 - **HTML**
+- **Vue**
+- **UnoCSS**
 
 ## Инструменты 🔧
 - **Visual Studio Code (VSC)**
